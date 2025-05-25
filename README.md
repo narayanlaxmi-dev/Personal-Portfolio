@@ -2,7 +2,7 @@
 [Preview](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
 > The captivating screenshots of my portfolio website.
 
-This is simple personal-portfolio website pages.
+This is simple narayan personal-portfolio website pages.
 
 ## NARAYAN LAXMI PATIL
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=890F0D&label=PROJECT-VIEWS)<br>
